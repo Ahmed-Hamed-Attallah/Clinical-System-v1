@@ -1,0 +1,27 @@
+{
+  "P-18": {
+    "demographics": {
+      "patient_id": "P-18",
+      "Full Name": "Ahmed Mohamed Ashry",
+      "date_of_birth": "1999-09-09",
+      "gender": "Male",
+      "Identification": "Unknown",
+      "Primary Care Physician(PCP)": "Ahmed Mohamed ",
+      "contactinfo": {
+        "phone": "+2011230256481",
+        "email": "Unknown",
+        "address": "14 King-Faisel st, Giza, Egypt"
+      },
+      "emergency_contact": {
+        "name": "Bahana",
+        "relation": "Wife ",
+        "phone": "+2011230256482"
+      },
+      "insurance": {
+        "company": "Wego",
+        "policy_number": "azx001-p8"
+      }
+    },
+    "visits": []
+  }
+}
